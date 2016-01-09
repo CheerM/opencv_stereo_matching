@@ -1,2 +1,2 @@
 # opencv_stereo_matching
-    all of the details are written into the report.pdf
+    All of the details have been written into the report.pdf
